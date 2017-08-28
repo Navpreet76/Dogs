@@ -1,0 +1,9 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.breedinfo li{
+	list-style-type: none;
+}
+.nav navbar-nav a:hover{
+	background: green;
+}
