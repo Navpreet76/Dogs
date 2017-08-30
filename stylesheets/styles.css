@@ -1,9 +1,14 @@
 body{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif!important;
+	background-color: #F5DEB3!important;
 }
 .breedinfo li{
 	list-style-type: none;
 }
 .nav navbar-nav a:hover{
 	background: green;
+}
+a{
+	text-decoration: none!important;
+
 }

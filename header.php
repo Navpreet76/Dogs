@@ -22,6 +22,7 @@
       <li><a href="toybreeds.php">Toy Breeds</a></li>
       <li><a href="huntingbreeds.php">Hunting Breeds</a></li>
       <li><a href="gsd.php">German Shepherd</a></li>
+      <li><a href="guard.php">Guard Dogs</a></li>
       <li><a href="contact.php">Contact</a></li>
       <li><a href="training.php">Training Tips</a></li>
       <li><a href="home.php">Home</a></li>
